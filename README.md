@@ -27,6 +27,6 @@ This project focuses on automating the testing of a weather application that pro
 - **/docs**: Test scenarios, test data, and reports.  
 
 ## Contributors  
-- [Çağla Uzundurukan]  
-- [Derya Aysu Kılıç]  
+- Çağla Uzundurukan 
+- Derya Aysu Kılıç 
 
