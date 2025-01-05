@@ -22,9 +22,9 @@ This project focuses on automating the testing of a weather application that pro
 
 ## Repository Structure  
 - **/api-testing**: Contains Postman collections and environment files.  
-- **/web-testing**: Selenium scripts for testing the web interface.  
+- **/ui testing**: Selenium scripts for testing the web interface.  
 - **/mobile-testing**: Appium scripts for mobile application testing.  
-- **/docs**: Test scenarios, test data, and reports.  
+- **/manuel-testing**: Test scenarios, test data, and reports.  
 
 ## Contributors  
 - Çağla Uzundurukan 
